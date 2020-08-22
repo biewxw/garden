@@ -2,7 +2,7 @@
 
 👋 Welcome to my second brain!
 
-- [[arcticles]]: Some arcticles that I Read
+- [[arcticles]]: Some arcticles that I read
 - [[books]]: Some books that I read
 - [[ideas]]: Some ideas I've
 - [[arcticles]]: Some notes taking
