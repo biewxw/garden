@@ -1,6 +1,6 @@
 # Home
 
-👋 Welcome to my second brain! Here are all my notes, ideas, books and crazy drafts. The idea of that repository is to create a centralized and flexibe mind. Be free to explore my brain!
+👋 Welcome to my second brain! All my notes, ideas, and crazy drafts are here. The idea of that repository is to create a centralized and flexibe mind. Be free to explore my brain!
 
 - [[ideas]]: Some ideas
 - [[notes]]: Some notes
