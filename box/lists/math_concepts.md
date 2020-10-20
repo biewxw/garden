@@ -3,7 +3,11 @@ title: Math Concepts
 tags: math, functions, equations
 ---
 
-## Relational Links
+## Conceitos Matemáticos
+
+Uma lista contendo algumas anotações e outros sobre Conceitos Matemáticos.
+
+### Relational Links
 
 - [[202010192317]] Potência
 
